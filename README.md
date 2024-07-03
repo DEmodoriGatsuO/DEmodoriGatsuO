@@ -39,6 +39,7 @@ I am also an IPA beer enthusiast who loves a beer called "Ao-Oni" from India and
 ### 📫Contact Information
 
 | Platform  | Username/Handle                              | Link |
-|-----------|----------------------------------------------|------|
-| GitHub    | @DemodoriGatsuo                              | [GitHub](https://github.com/DemodoriGatsuo) |
-| Twitter(X)   | @DemodoriGatsuo                              | [Twitter(X)](https://x.com/DemodoriGatsuo) |
+|-----------|--------------|------|
+| GitHub    | @DemodoriGatsuo  | [GitHub](https://github.com/DemodoriGatsuo) |
+| Twitter(X)   | @DemodoriGatsuo   | [Twitter(X)](https://x.com/DemodoriGatsuo) |
+| Qiita   | @DEmodoriGatsuO |[Qiita](https://qiita.com/DEmodoriGatsuO)|
