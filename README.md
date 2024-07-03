@@ -7,7 +7,6 @@
 Consultant, I'm proficient in the following technologies:
 
 - **Power Platform:** Power Apps / Power Automate / SharePoint
-- Python - Leader of the Gatsuo Juku
 - **Programming:** Excel VBA, Google Apps Script, Python
 - **RPA:** WinAutomation – Power Automate for desktop
 
@@ -29,7 +28,7 @@ And i love Power Apps💞️
 My unique background makes me not only an expert in technology but also a professional in business improvement. Additionally, as the leader of "Katsuo Juku," I am dedicated to teaching Python and providing foundational programming education to many.
 
 ## 🌱Community Engagement
-I actively create opportunities for information sharing and networking. Notably, I contribute to the promotion of technology and the activation of the community through my presentations at the "Kimamani Benkyokai" study group.
+I actively create opportunities for information sharing and networking.
 
 ## 👀Personal Interests
 I am also an IPA beer enthusiast who loves a beer called "Ao-Oni" from India and am the leader of the #AoOniFanClub. As a parent of twins, I balance work and family life while contributing to the tech community.
