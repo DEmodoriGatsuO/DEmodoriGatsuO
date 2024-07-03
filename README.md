@@ -2,6 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=DemodoriGatsuo" />
 </div>
 
+**From HR: Microsoft MVP for Business Applications | Consultant**
+- Power Apps / Power Automate / SharePoint
+- Python - Leader of the Gatsuo Juku
+Parent of twins who loves an IPA called "Ao-Oni" from India #AoOniFanClub Leader
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi! This is De'modori Gatsuo!!
 
 ## My image
