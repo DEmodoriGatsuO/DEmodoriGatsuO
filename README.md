@@ -3,9 +3,14 @@
 </div>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi! This is De'modori Gatsuo!!
-**From HR: Microsoft MVP for Business Applications | Consultant**
-- Power Apps / Power Automate / SharePoint
+**Demodori Gatsuo transitioned from an HR role to a consultant, where he now promotes business process improvement and works as a DX manager in back-office operations. As a Microsoft MVP for Business Applications**
+Consultant, I'm proficient in the following technologies:
+
+- **Power Platform:** Power Apps / Power Automate / SharePoint
 - Python - Leader of the Gatsuo Juku
+- **Programming:** Excel VBA, Google Apps Script, Python
+- **RPA:** WinAutomation – Power Automate for desktop
+
 Parent of twins who loves an IPA called "Ao-Oni" from India.
 And i love Power Apps💞️ 
 
@@ -21,14 +26,19 @@ And i love Power Apps💞️
 - Before
 <img src="/asset/before.png" alt="バ美肉" style="border-radius: 50%; width: 200px; height: 200px;">
 
-- 👋 Hi, I’m @DEmodoriGatsuO
-- 👀 I’m interested in Microsoft Products!
-- 🌱 I’m currently learning Microsoft Products!
-- 💞️ I’m looking to collaborate on Microsoft Products!
-- 📫 How to reach me Twitter!
+My unique background makes me not only an expert in technology but also a professional in business improvement. Additionally, as the leader of "Katsuo Juku," I am dedicated to teaching Python and providing foundational programming education to many.
 
-* I am a citizen developer.
-I am a fan of Microsoft and wish to be a part of it.
-And now I am aiming to be a Microsoft MVP.
-* Please contact me on Twitter.
+## 🌱Community Engagement
+I actively create opportunities for information sharing and networking. Notably, I contribute to the promotion of technology and the activation of the community through my presentations at the "Kimamani Benkyokai" study group.
 
+## 👀Personal Interests
+I am also an IPA beer enthusiast who loves a beer called "Ao-Oni" from India and am the leader of the #AoOniFanClub. As a parent of twins, I balance work and family life while contributing to the tech community.
+
+---
+
+### 📫Contact Information
+
+| Platform  | Username/Handle                              | Link |
+|-----------|----------------------------------------------|------|
+| GitHub    | @DemodoriGatsuo                              | [GitHub](https://github.com/DemodoriGatsuo) |
+| Twitter(X)   | @DemodoriGatsuo                              | [Twitter(X)](https://x.com/DemodoriGatsuo) |
