@@ -15,20 +15,23 @@ Consultant, I'm proficient in the following technologies:
 - **Programming:** Excel VBA, Google Apps Script, Python
 - **RPA:** WinAutomation – Power Automate for desktop
 
-Parent of twins who loves an IPA called "Ao-Oni" from India.
-And i love Power Apps💞️ 
+![Power Apps](https://img.shields.io/badge/-Power%20Apps-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0089D6?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
+![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+I love Power Apps💞️ 
 
 ## My image
- - REAL
-<img src="/asset/RealAvatar.png" alt="REAL" style="border-radius: 50%; width: 200px; height: 200px;">
+<p align="center">
+**REAL**
+  <img src="/asset/RealAvatar.png" alt="REAL" style="border-radius: 50%; width: 200px; height: 200px;">
+**Virtual**
+  <img src="https://pbs.twimg.com/profile_images/1807909418010566656/SEmp8tKd_400x400.jpg" alt="バ美肉" style="border-radius: 50%; width: 200px; height: 200px;">
+  <img src="/asset/before.png" alt="バ美肉" style="border-radius: 50%; width: 200px; height: 200px;">
+</p>
 
-- VIRTUAL
-<img src="https://pbs.twimg.com/profile_images/1807909418010566656/SEmp8tKd_400x400.jpg" alt="バ美肉" style="border-radius: 50%; width: 200px; height: 200px;">
-
-#### History
-
-- Before
-<img src="/asset/before.png" alt="バ美肉" style="border-radius: 50%; width: 200px; height: 200px;">
 
 My unique background makes me not only an expert in technology but also a professional in business improvement. Additionally, as the leader of "Katsuo Juku," I am dedicated to teaching Python and providing foundational programming education to many.
 
