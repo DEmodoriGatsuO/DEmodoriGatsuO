@@ -2,6 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=DemodoriGatsuo" />
 </div>
 
+<p align="center">
+  <a href="https://x.com/DemodoriGatsuo"><img src="https://img.shields.io/twitter/follow/DemodoriGatsuo"/></a>
+  <a href="https://www.youtube.com/channel/UCnQPcnjK2djLVvdr_-u4nrQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCnQPcnjK2djLVvdr_-u4nrQ"/></a>
+</p>
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi! This is De'modori Gatsuo!!
 **Demodori Gatsuo transitioned from an HR role to a consultant, where he now promotes business process improvement and works as a DX manager in back-office operations. As a Microsoft MVP for Business Applications**
 Consultant, I'm proficient in the following technologies:
@@ -34,6 +39,16 @@ I actively create opportunities for information sharing and networking.
 I am also an IPA beer enthusiast who loves a beer called "Ao-Oni" from India and am the leader of the #AoOniFanClub. As a parent of twins, I balance work and family life while contributing to the tech community.
 
 ---
+
+<p align="center">
+  <a href="https://github.com/DEmodoriGatsuO/VoiceLens">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DEmodoriGatsuO&repo=VoiceLens&theme=radical" />
+  </a>
+  <a href="https://github.com/DEmodoriGatsuO/powerapps-azure-openai-text-to-speech">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DEmodoriGatsuO&repo=powerapps-azure-openai-text-to-speech&theme=radical" />
+  </a>
+</p>
+
 
 ### 📫Contact Information
 
