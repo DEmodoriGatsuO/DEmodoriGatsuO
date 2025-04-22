@@ -27,8 +27,6 @@ I love Power Apps💞️
 <p align="center">
 Real
   <img src="/asset/RealAvatar.png" alt="REAL" style="border-radius: 50%; width: 200px; height: 200px;">
-Virtual
-  <img src="https://pbs.twimg.com/profile_images/1807909418010566656/SEmp8tKd_400x400.jpg" alt="バ美肉" style="border-radius: 50%; width: 200px; height: 200px;">
 Before
   <img src="/asset/before.png" alt="バ美肉" style="border-radius: 50%; width: 200px; height: 200px;">
 </p>
